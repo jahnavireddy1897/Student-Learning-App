@@ -5,7 +5,7 @@ st.set_page_config(
 )
 
 
-st.title("🎓 Student Learning App")
+
 
 topic = st.selectbox(
     "Choose a topic",
