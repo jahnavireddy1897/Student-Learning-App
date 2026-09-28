@@ -4,7 +4,7 @@ st.set_page_config(
     page_icon="🎓"
 )
 
-
+st.title("🎓 Student Learning App")
 
 
 topic = st.selectbox(
